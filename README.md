@@ -26,4 +26,4 @@ This project can be run from the Expo client app.
 
 In the project directory, you can run:
 
-### `yarn` : "yarn start"`
+### `yarn : "yarn start"`
